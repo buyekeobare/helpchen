@@ -1,0 +1,12 @@
+How to create github account?
+
+Go to your browser and type wwww.github.com and click on it
+Sign up for github by entering the following details:
+Username
+Password
+Follow instructions for verifying account
+Then create the account
+You will receive an email notification to verify your email.
+Click on it and voila, you have a github account.
+
+How to clone repos to the local machine?
