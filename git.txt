@@ -1,0 +1,9 @@
+To install git, choose the right one for your own preferred operating system: Mac OS, Linux or windows. 
+
+Run the following in your terminal (shell);
+sudo apt-get install -y git
+click enter:
+username:
+password:
+enter 
+Voila you have installed!

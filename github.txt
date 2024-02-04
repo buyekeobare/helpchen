@@ -10,3 +10,9 @@ You will receive an email notification to verify your email.
 Click on it and voila, you have a github account.
 
 How to clone repos to the local machine?
+Create a new repository in your github account to your terminal (shell) and run the following:
+git clone https//github.com/username/repository (by repository I mean the name of the repository created).
+Click on enter
+You have successfully cloned your repository
+You can run this command to work in the repository:
+cd repository (name of the repository created) 
